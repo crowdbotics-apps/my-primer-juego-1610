@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT my_primer_juego_1610.wsgi:application
